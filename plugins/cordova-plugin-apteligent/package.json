@@ -1,0 +1,69 @@
+{
+  "_from": "cordova-plugin-apteligent",
+  "_id": "cordova-plugin-apteligent@3.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-i/InAjgX2Ea896kr6czB0nMqm5JuwIqN2jB9F9G5vsA8u9e/X0T3yVHhwj0GqKJGILu151+BNhCZvWcaf6FCmQ==",
+  "_location": "/cordova-plugin-apteligent",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-apteligent",
+    "name": "cordova-plugin-apteligent",
+    "escapedName": "cordova-plugin-apteligent",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-apteligent/-/cordova-plugin-apteligent-3.3.2.tgz",
+  "_shasum": "679dc8e357b4f15fa009d78181f547676dfd14c7",
+  "_spec": "cordova-plugin-apteligent",
+  "_where": "/home/yaroslav/CordovaPluginsDir/CordovaPlugins",
+  "author": {
+    "name": "Apteligent"
+  },
+  "bugs": {
+    "url": "http://community.apteligent.com",
+    "email": "support@apteligent.com"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-apteligent",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Apteligent's crash reporting and performance monitoring for iOS and Android.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "homepage": "http://docs.crittercism.com/development_platforms/phonegap.html",
+  "keywords": [
+    "crittercism",
+    "crash",
+    "analytics",
+    "monitor",
+    "apm",
+    "error",
+    "performance",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-apteligent",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crittercism/PhoneGap.git"
+  },
+  "version": "3.3.2"
+}

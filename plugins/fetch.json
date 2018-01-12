@@ -1,0 +1,258 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@4.0.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-app-event": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-app-event"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-apteligent": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-apteligent"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-compat": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-compat@1.2.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-fingerprint-id": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-fingerprint-id"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-geolocation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-geolocation@4.0.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-globalization": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-globalization"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-inappbrowser": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-inappbrowser@2.0.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-keychain-touch-id": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-keychain-touch-id"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-screen-orientation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-screen-orientation"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-secure-storage": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-secure-storage"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-speechrecognition": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-speechrecognition"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-statusbar@2.4.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-touch-id": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-touch-id"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-touchid": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-touchid"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-wkwebview-engine": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-wkwebview-engine"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "de.appplant.cordova.plugin.local-notification": {
+    "source": {
+      "type": "registry",
+      "id": "de.appplant.cordova.plugin.local-notification"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "ionic-plugin-keyboard": {
+    "source": {
+      "type": "registry",
+      "id": "ionic-plugin-keyboard"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-console": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-console"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-file-transfer": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file-transfer"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-file": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file@^5.0.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-network-information"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  },
+  "phonegap-plugin-barcodescanner": {
+    "source": {
+      "type": "registry",
+      "id": "phonegap-plugin-barcodescanner@7.0.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEID_USAGE_DESCRIPTION": " "
+    }
+  }
+}

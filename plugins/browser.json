@@ -1,0 +1,87 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-app-event": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-apteligent": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-fingerprint-id": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-keychain-touch-id": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-secure-storage": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-speechrecognition": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-touch-id": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-touchid": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "de.appplant.cordova.plugin.local-notification": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.powwow.CordovaPlugins"
+    }
+  },
+  "dependent_plugins": {}
+}

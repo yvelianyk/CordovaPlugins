@@ -1,0 +1,65 @@
+{
+  "_from": "cordova-plugin-fingerprint-id",
+  "_id": "cordova-plugin-fingerprint-id@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-JB7QRGzHRUcpPgGeD7N+6+L7yJM=",
+  "_location": "/cordova-plugin-fingerprint-id",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-fingerprint-id",
+    "name": "cordova-plugin-fingerprint-id",
+    "escapedName": "cordova-plugin-fingerprint-id",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fingerprint-id/-/cordova-plugin-fingerprint-id-0.3.0.tgz",
+  "_shasum": "241ed0446cc74547293e019e0fb37eebe2fbc893",
+  "_spec": "cordova-plugin-fingerprint-id",
+  "_where": "/home/yaroslav/CordovaPluginsDir/CordovaPlugins",
+  "author": {
+    "name": "susanne"
+  },
+  "bugs": {
+    "url": "https://github.com/susannegeorge/cordova-plugin-fingerprint-id/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-fingerprint-id",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "\r\n    Scan the fingerprint of your user with the TouchID sensor and other Fingerprint sensor\r\n  ",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/susannegeorge/cordova-plugin-fingerprint-id#readme",
+  "keywords": [
+    "TouchID",
+    "Touch ID",
+    "Fingerprint",
+    "Biometric",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-fingerprint-id",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susannegeorge/cordova-plugin-fingerprint-id.git"
+  },
+  "version": "0.3.0"
+}
